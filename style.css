@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navL-content{
+    display: flex;
+    margin: auto;
+    width:60%;
+    /* background-color: rgb(53, 179, 91); */
+    justify-content: space-between;
+}
+.nav-left{
+    display: flex;
+    width: 50%;
+    /* background-color: blueviolet; */
+}
+.nav-right{
+    display: flex;
+    width: 50%;
+    /* background-color: rgb(208, 129, 26); */
+   
+}
+nav{
+    display: flex;
+    width: 90%;
+    /* background-color: blueviolet; */
+    margin:auto;
+    height: 70px;
+}
+.block1{
+    width: 100%;
+    margin: auto;
+    height:70px;
+    background-color: rgb(4, 43, 30);
+    align-content: center;
+}
+
