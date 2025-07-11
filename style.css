@@ -35,4 +35,151 @@ nav{
     background-color: rgb(4, 43, 30);
     align-content: center;
 }
+.block2{
+    width:100%;
+    margin: auto;
+    align-content: center;
+    margin-top: 80px;
+}
+.sub2{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    background-image: url('./bg2.png');
+    box-shadow: 0 2px 4px #00000012, 0 4px 5px #0000000f, 0 1px 10px #0000001a;
+    border-radius: 8px;
+    display: flex;
+    height: 220px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position-y: 30%;
+}
+.block3{
+     width:100%;
+    margin: auto;
+    align-content: center;
+    margin-top: 80px;
+}
+.sub3{
+    width: 80%;
+    text-align: center;
+    margin: auto;
+}
+.card{
+   display: flex; 
+   justify-content: space-between;
+   margin-top: 50px;
+   
 
+}
+.upper-right{
+display: flex;
+}
+.upper4{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.upper-slip{
+    display: flex;
+    gap: 8px;
+}
+.lower-slip{
+    display: flex;
+    justify-content: space-between;
+}
+.sub4{
+   
+    text-align: center;
+    margin: auto;  
+}
+.block4{
+    background-color:#EDEBE9
+}
+.background5{
+    background-image: url('./block5-Backgrnd.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.block5{
+     width:100%;
+    margin: auto;
+    align-content: center;
+    margin-top: 50px;
+    height:500px;
+    background-color:#EDEBE9;
+}
+.sub5{
+    width: 85%;
+    text-align: center;
+    margin: auto;
+    height: 350px;
+}
+.background5{
+    width: 85%;
+    text-align: center;
+    margin: auto;  
+    height: 350px;
+    border-radius: 8px;
+    text-align: left;
+    
+}
+footer{
+    width:100%;
+    margin: auto;
+    align-content: center;
+    margin-top: 60px;
+    height:1400;
+    background-color: #0e382c;
+    
+}
+.sub-foot{
+    width: 85%;
+    text-align: left;
+    margin: auto;
+    height: 700px;
+    display: flex;
+    margin-top: 10px;
+    gap: 50px;
+
+}
+.row{
+    margin:10px 0px 5px;
+    padding: 0px 8px;
+    color: white;
+    width: 300px;
+    line-height: 3rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sub22{
+    width: 85%;
+    text-align: left;
+    margin: auto;
+    height: 140px;
+    display: flex;
+    margin-top: 10px;
+    gap: 30px;
+    border-bottom: 1px solid rgb(255, 255, 255);
+    margin-bottom: 20px;
+
+}
+.sub-foot2{
+    display: flex;
+}
+.last{
+    color: white;
+    width: 85%;
+    text-align: left;
+    margin: auto;
+    height: 140px;
+    display: flex;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+}
+.left-last{
+    display: flex;
+    justify-content:space-between;
+}
